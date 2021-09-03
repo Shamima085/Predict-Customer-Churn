@@ -82,7 +82,7 @@ To test train_models function first checked the file exists or not.tried to test
 
 **`churn_script_logging_and_tests.py` code has been rated at 10.00/10**
 
-Author : Mortadha Teffaha
+Author : Shamima Sultana
 Date : 2021-04-22
 
 
